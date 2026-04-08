@@ -1,10 +1,4 @@
-以下是整理好的 `README.md` 内容，可以直接复制使用：
-
 ```markdown
-# CSC6051 Assignment 2 – Image Processing & Depth Estimation
-
-**Author**: Wang Xuening (225040103)  
-**Course**: CSC6051/MDS6004  
 
 This repository contains the implementation and experiments for three tasks: Gaussian filtering, histogram equalization (global & local), and monocular depth estimation on ScanNet.
 
