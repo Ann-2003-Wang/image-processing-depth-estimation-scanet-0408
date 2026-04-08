@@ -8,7 +8,7 @@
 
 This repository contains the implementation and experiments for three tasks: Gaussian filtering, histogram equalization (global & local), and monocular depth estimation on ScanNet.
 
-## 📁 File Structure
+##  File Structure
 
 ```
 .
@@ -25,7 +25,7 @@ This repository contains the implementation and experiments for three tasks: Gau
 └── 225040103_WangXuening_Report2.pdf   # Full report
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### Task 1 & 2 (no dependencies needed)
 ```bash
@@ -66,7 +66,7 @@ conda activate d2oe          # if required
 bash t3.4.sh
 ```
 
-## 📊 Results Summary
+##  Results Summary
 
 - **Baseline ResNet50**: AbsRel = 0.1247  
 - **Best data-scale config (160k samples, 2 epochs)**: AbsRel = 0.0817  
@@ -75,10 +75,9 @@ bash t3.4.sh
 
 For full analysis and visualizations, see the PDF report.
 
-## 📝 Notes
+##  Notes
 
 - All code tested with PyTorch 2.0+ and CUDA 12.4.  
 - Results (metrics, depth maps) are saved in `output/` directories.
 ```
 
-你可以直接将上面的内容复制到 GitHub 仓库的 `README.md` 文件中，然后提交即可。
