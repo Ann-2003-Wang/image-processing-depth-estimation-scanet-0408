@@ -73,6 +73,6 @@ For full analysis and visualizations, see the PDF report.
 ##  Notes
 
 - All code tested with PyTorch 2.0+ and CUDA 12.4.  
-- Results (metrics, depth maps) are saved in `output/` directories.
+
 ```
 
