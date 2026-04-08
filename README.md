@@ -4,7 +4,7 @@ This repository contains the implementation and experiments for three tasks: Gau
 
 ##  File Structure
 
-```
+```markdown
 .
 ├── task1.py                      # Gaussian filter from scratch
 ├── task2.py                      # Global & local histogram equalization
