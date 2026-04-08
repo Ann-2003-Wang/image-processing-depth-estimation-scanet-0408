@@ -1,6 +1,7 @@
 ```markdown
 
 This repository contains the implementation and experiments for three tasks: Gaussian filtering, histogram equalization (global & local), and monocular depth estimation on ScanNet.
+```
 
 ##  File Structure
 
